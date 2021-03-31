@@ -27,8 +27,8 @@ header h1 {
 header h1 .seo {
     color: #d9dcd6;
 }
-
-header nav {
+/* changed div to nav to make the nav bar work*/
+.header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
